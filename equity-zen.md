@@ -1,0 +1,51 @@
+
+
+
+### Companies
+
+- [Advanced Microgrid Solutions](https://equityzen.com/company/advancedmicrogridsolutions/)
+- [Ambri, Inc.](https://equityzen.com/company/ambri/)
+- [Amprius](https://equityzen.com/company/amprius/)
+- [Ather Energy](https://equityzen.com/company/atherenergy/)
+- [Aurora Solar](https://equityzen.com/company/aurorasolar/)
+- [BrightSource Energy](https://equityzen.com/company/brightsourceenergy/)
+- [BroadBit Batteries](https://equityzen.com/company/broadbitbatteries/)
+- [Carbon Engineering](https://equityzen.com/company/carbonengineering/)
+- [Chanje Energy](https://equityzen.com/company/chanjeenergy/)
+- [comma.ai](https://equityzen.com/company/comma/)
+- [Dandelion Energy](https://equityzen.com/company/dandelionenergy/)
+- [ENBALA Power Networks](https://equityzen.com/company/enbalapowernetworks/)
+- [General Fusion](https://equityzen.com/company/generalfusion/)
+- [Helion Energy](https://equityzen.com/company/helionenergy/)
+- [KeepTruckin](https://equityzen.com/company/keeptruckin/)
+- [Mapbox](https://equityzen.com/company/mapbox/)
+- [Microvast](https://equityzen.com/company/microvast/)
+- [Newlight Technologies](https://equityzen.com/company/newlighttechnologies/)
+- [NEXTracker](https://equityzen.com/company/nextracker/)
+- [Off Grid Electric](https://equityzen.com/company/offgridelectric/)
+- [Primus Power](https://equityzen.com/company/primuspower/)
+- [Proterra](https://equityzen.com/company/proterra/)
+- [Quantumscape](https://equityzen.com/company/quantumscape/)
+- [Rayton Solar](https://equityzen.com/company/raytonsolar/)
+- [Rent the Runway](https://equityzen.com/company/renttherunway/)
+- [Rivian Automotive](https://equityzen.com/company/rivianautomotive/)
+- [SF Motors](https://equityzen.com/company/sfmotors/)
+- [Shift](https://equityzen.com/company/shiftcars/)
+- [Sighten](https://equityzen.com/company/sighten/)
+- [Sila Nanotechnologies](https://equityzen.com/company/silananotechnologies/)
+- [SolidEnergy Systems](https://equityzen.com/company/solidenergy/)
+- [Sonnen](https://equityzen.com/company/sonnenbatterie/)
+- [Suniva](https://equityzen.com/company/suniva/)
+- [Sunverge Energy, Inc](https://equityzen.com/company/sunvergeenergyinc/)
+- [Terrestrial Energy](https://equityzen.com/company/terrestrialenergy/)
+- [The Boring Company](https://equityzen.com/company/theboringcompany/)
+- [Tri Alpha Energy](https://equityzen.com/company/trialphaenergy/)
+- [Volta Charging](https://equityzen.com/company/voltaindustries/)
+- [Wheels Labs](https://equityzen.com/company/wheels7fda/)
+- [Xyleco](https://equityzen.com/company/xyleco/)
+- [Zero Motorcycles Inc.](https://equityzen.com/company/zeromotorcycles/)
+- [Zunum Aero](https://equityzen.com/company/zunumaero/)
+
+### Additional
+
+`copy($$('.card-link-wrapper').map(a => ([a.href, a.querySelector('h5').innerText])).map(([href, name]) => `- [${name}](${href})`).join("\n"))`
